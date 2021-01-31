@@ -5,14 +5,18 @@
 	$phone = '01616370505';
 	$address = '248 Moston Ln, Manchester M40 9WF';
 	$country = 'UK';
-	$email = '';
+	$email = 'info@citybizcommunications.com';
+	$title = 'Home:: Citybiz';
 	if ($url == '/about') {
+		$title = 'About:: Citybiz';
 		include 'about.php';
 		exit;
 	} else if ($url == '/contact') {
+		$title = 'Contact:: Citybiz';
 		include 'contact.php';
 		exit;
 	} else if ($url == '/terms') {
+		$title = 'Terms:: Citybiz';
 		include 'terms.php';
 		exit;
 	} else if ('/') {

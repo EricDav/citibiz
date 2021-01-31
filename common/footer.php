@@ -81,11 +81,7 @@ At City Biz Communications Limited we are extremely proud of our reputation as t
 								13027329</li>
 							<li class="mb-3">
 								<!-- <i class="fa fa-envelope-open"></i> -->
-								<a href="mailto:example@mail.com">mail@example.com</a>
-							</li>
-							<li>
-								<!-- <i class="fas fa-envelope-open"></i> -->
-								<a href="mailto:example@mail.com"> mail2@example.com</a>
+								<a href="mailto:example@mail.com"><?=$email?></a>
 							</li>
 						</ul>
 					</div>
