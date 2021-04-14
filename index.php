@@ -153,8 +153,8 @@
 												<a href="single.html">Samsung Galaxy J7</a>
 											</h4>
 											<div class="info-product-price my-2">
-												<span class="item_price">$200.00</span>
-												<del>$280.00</del>
+												<span class="item_price">£200.00</span>
+												<del>£280.00</del>
 											</div>
 											<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 												<form action="#" method="post">
@@ -192,8 +192,8 @@
 												<a href="single.html">OPPO A37f</a>
 											</h4>
 											<div class="info-product-price my-2">
-												<span class="item_price">$230.00</span>
-												<del>$250.00</del>
+												<span class="item_price">£230.00</span>
+												<del>£250.00</del>
 											</div>
 											<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 												<form action="#" method="post">
@@ -232,8 +232,8 @@
 												<a href="single.html">Apple iPhone X</a>
 											</h4>
 											<div class="info-product-price my-2">
-												<span class="item_price">$280.00</span>
-												<del>$300.00</del>
+												<span class="item_price">£280.00</span>
+												<del>£300.00</del>
 											</div>
 											<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 												<form action="#" method="post">
@@ -276,8 +276,8 @@
 												<a href="single.html">Sony 80 cm (32 inches)</a>
 											</h4>
 											<div class="info-product-price my-2">
-												<span class="item_price">$320.00</span>
-												<del>$340.00</del>
+												<span class="item_price">£320.00</span>
+												<del>£340.00</del>
 											</div>
 											<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 												<form action="#" method="post">
@@ -315,8 +315,8 @@
 												<a href="single.html">Artis Speaker</a>
 											</h4>
 											<div class="info-product-price my-2">
-												<span class="item_price">$349.00</span>
-												<del>$399.00</del>
+												<span class="item_price">£349.00</span>
+												<del>£399.00</del>
 											</div>
 											<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 												<form action="#" method="post">
@@ -353,8 +353,8 @@
 												<a href="single.html">Philips Speakers</a>
 											</h4>
 											<div class="info-product-price my-2">
-												<span class="item_price">$249.00</span>
-												<del>$300.00</del>
+												<span class="item_price">£249.00</span>
+												<del>£300.00</del>
 											</div>
 											<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 												<form action="#" method="post">
@@ -409,8 +409,8 @@
 												<a href="single.html">Whirlpool 245</a>
 											</h4>
 											<div class="info-product-price my-2">
-												<span class="item_price">$230.00</span>
-												<del>$280.00</del>
+												<span class="item_price">£230.00</span>
+												<del>£280.00</del>
 											</div>
 											<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 												<form action="#" method="post">
@@ -447,8 +447,8 @@
 												<a href="single.html">BPL Washing Machine</a>
 											</h4>
 											<div class="info-product-price my-2">
-												<span class="item_price">$180.00</span>
-												<del>$200.00</del>
+												<span class="item_price">£180.00</span>
+												<del>£200.00</del>
 											</div>
 											<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 												<form action="#" method="post">
@@ -485,8 +485,8 @@
 												<a href="single.html">Microwave Oven</a>
 											</h4>
 											<div class="info-product-price my-2">
-												<span class="item_price">$199.00</span>
-												<del>$299.00</del>
+												<span class="item_price">£199.00</span>
+												<del>£299.00</del>
 											</div>
 											<div class="snipcart-details top_brand_home_details item_add single-item hvr-outline-out">
 												<form action="#" method="post">
@@ -530,22 +530,22 @@
 							<div class="w3l-range">
 								<ul>
 									<li>
-										<a href="#">Under $1,000</a>
+										<a href="#">Under £1.00</a>
 									</li>
 									<li class="my-1">
-										<a href="#">$1,000 - $5,000</a>
+										<a href="#">£1.00 - £10.00</a>
 									</li>
 									<li>
-										<a href="#">$5,000 - $10,000</a>
+										<a href="#">£10.00 - £30.00</a>
 									</li>
 									<li class="my-1">
-										<a href="#">$10,000 - $20,000</a>
+										<a href="#">£30.00 - £60.00</a>
 									</li>
 									<li>
-										<a href="#">$20,000 $30,000</a>
+										<a href="#">£60.00 - £100.00</a>
 									</li>
 									<li class="mt-1">
-										<a href="#">Over $30,000</a>
+										<a href="#">Over £100.00</a>
 									</li>
 								</ul>
 							</div>
@@ -637,7 +637,7 @@
 								</li>
 							</ul>
 						</div>
-						<!-- //arrivals -->
+						
 						<!-- best seller -->
 						<div class="f-grid py-2">
 							<h3 class="agileits-sear-head mb-3">Best Seller</h3>
@@ -649,7 +649,7 @@
 										</div>
 										<div class="col-lg-9 col-sm-10 col-9 w3_mvd">
 											<a href="">Samsung Galaxy On7 Prime (Gold, 4GB RAM + 64GB Memory)</a>
-											<a href="" class="price-mar mt-2">$12,990.00</a>
+											<a href="" class="price-mar mt-2">£12,990.00</a>
 										</div>
 									</div>
 									<div class="row my-4">
@@ -658,7 +658,7 @@
 										</div>
 										<div class="col-lg-9 col-sm-10 col-9 w3_mvd">
 											<a href="">Haier 195 L 4 Star Direct-Cool Single Door Refrigerator</a>
-											<a href="" class="price-mar mt-2">$12,499.00</a>
+											<a href="" class="price-mar mt-2">£12,499.00</a>
 										</div>
 									</div>
 									<div class="row">
@@ -667,7 +667,7 @@
 										</div>
 										<div class="col-lg-9 col-sm-10 col-9 w3_mvd">
 											<a href="">Ambrane 13000 mAh Power Bank (P-1310 Premium)</a>
-											<a href="" class="price-mar mt-2">$1,199.00 </a>
+											<a href="" class="price-mar mt-2">£1,199.00 </a>
 										</div>
 									</div>
 								</div>

@@ -3,15 +3,7 @@
 		<div class="footer-top-first">
 			<div class="container py-md-5 py-sm-4 py-3">
 				<!-- footer first section -->
-				<h2 class="footer-top-head-w3l font-weight-bold mb-2">Electronics :</h2>
-				<p class="footer-main mb-4">
-				We pride ourselves on our fantastic customer service; we focus on meticulously selected products and combine them with fantastic prices and service delivery. 
-At City Biz Communications Limited we are extremely proud of our reputation as the leading UK mobile phone accessories retailer that not only provides customers with the best deals, but also listens and delivers what customers want time and time again.
 
-				<div class="row w3l-grids-footer border-top border-bottom py-sm-4 py-3">
-
-
-				</div>
 				<!-- //footer second section -->
 			</div>
 		</div>
